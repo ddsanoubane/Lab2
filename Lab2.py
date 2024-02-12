@@ -14,3 +14,8 @@ def print_variables():
         print("No arguments used with the script.")
 
 print_variables()
+
+def helloWorld():
+	print(‘Hello World’)
+
+helloWorld()
