@@ -15,7 +15,3 @@ def print_variables():
 
 print_variables()
 
-def helloWorld():
-	print(‘Hello World’)
-
-helloWorld()
